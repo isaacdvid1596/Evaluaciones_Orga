@@ -15,6 +15,7 @@
 ;$t5->L[n1]
 ;$t6->R[n2]
 
+merge:
 ;init i and j
 move $t0,$zero
 move $t1,$zero
